@@ -1,0 +1,21 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: purple;
+  text-decoration: underline;
+  font-family: fantasy;
+  font-family: 'Rubik Mono One', sans-serif;
+
+
+}
+
+p {
+  font-family: 'Dokdo', cursive;
+
+}
+
+a {
+  color: red;
+}
